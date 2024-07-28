@@ -35,5 +35,24 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+## Youtube Link
+[Create a Responsive Shopping Website with Next.js and Tailwind](https://www.youtube.com/watch?v=KzqNLDMSdMc)
+[Preview](https://shopping-web-app.vercel.app/)
 
+## React Icons
+[React Icons](https://react-icons.github.io/react-icons/)
+```bash
+npm install react-icons --save
+```
+
+## Slick Carousel 
 [react-slick](https://www.npmjs.com/package/react-slick)
+```bash
+npm install react-slick --save
+npm install slick-carousel
+
+// Import css files
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+```
+
