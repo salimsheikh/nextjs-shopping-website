@@ -38,6 +38,20 @@ const NewProducts = () => {
       rating: 3,
       price: "58.00",
     },
+    {
+      img: "/products/watch-1.jpg",
+      title: "WATCHES",
+      desc: "Smart Watches Vital Plus",
+      rating: 4,
+      price: "100.00",
+    },
+    {
+      img: "/products/watch-2.jpg",
+      title: "WATCHES",
+      desc: "Pocket Watch Leather Pouch",
+      rating: 3,
+      price: "120.00",
+    },
   ];
   return (
     <div>
