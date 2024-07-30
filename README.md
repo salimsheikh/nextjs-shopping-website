@@ -56,3 +56,9 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 ```
 [Preview](https://shopping-web-app.vercel.app/)
+
+
+[prettier-plugin-tailwindcss](https://www.npmjs.com/package/prettier-plugin-tailwindcss)
+```bash
+npm install -D prettier prettier-plugin-tailwindcss
+```

@@ -14,7 +14,7 @@ export const HeaderMain = () => {
                     <input type="text" placeholder='Enter Product Name' className='border border-gray-200 p-2 px-4 rounded-lg w-full focus:border-gray-300' />
                     <BsSearch className='absolute right-0 top-0 mt-3 mr-3 text-gray-400' size={20} />
                 </div>
-                <div className="hidden lg:flex gap-4 text-gray-500 text-[30px]">
+                <div className="hidden lg:flex gap-4 text-gray-500 text-[30px]">                    
                     <BiUser />
                     <div className=" relative">
                         <FiHeart />

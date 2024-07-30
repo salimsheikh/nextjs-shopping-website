@@ -17,7 +17,7 @@ const HeaderTop = () => {
                             <BsLinkedin />
                         </div>
                         <div className="hidden_top__icon_wrapper">
-                            <BsInstagram />
+                            <BsInstagram />                            
                         </div>
                     </div>
 
